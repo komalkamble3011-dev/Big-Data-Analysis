@@ -32,5 +32,18 @@ Python, PySpark, Apache Spark, Pandas, Jupyter Notebook / Google Colab
 This project is accessible and can be executed on:
 Jupyter Notebook, Google Colab, VS Code, PyCharm
 
+#Screenshots
 <img width="1341" height="509" alt="image" src="https://github.com/user-attachments/assets/46d7de97-be75-444b-b119-d96cb7e30782" />
+<img width="565" height="578" alt="image" src="https://github.com/user-attachments/assets/acebea44-a1eb-4aa0-b80c-223cb41ad239" />
+<img width="311" height="356" alt="image" src="https://github.com/user-attachments/assets/038901c1-8400-453a-9e84-1aa3c1959e7e" />
+<img width="316" height="583" alt="image" src="https://github.com/user-attachments/assets/9a945757-f0e2-4974-9f5a-e80271e94eac" />
+<img width="365" height="374" alt="image" src="https://github.com/user-attachments/assets/a6aa64cc-24f5-4c07-a0f4-42bfd2e1c6c8" />
+<img width="548" height="369" alt="image" src="https://github.com/user-attachments/assets/b8912780-aa5d-4b6b-a247-c75ed64e097b" />
+<img width="355" height="603" alt="image" src="https://github.com/user-attachments/assets/a8f8d1df-c8a0-4f80-ab5f-b39d84366e74" />
+
+
+
+
+
+
 
