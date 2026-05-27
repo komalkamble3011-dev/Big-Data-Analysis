@@ -20,17 +20,10 @@ The project provides practical experience in Big Data Analytics, distributed com
 
 # Technologies and Libraries Used
 
-Python
-PySpark
-Apache Spark
-Pandas
-Jupyter Notebook / Google Colab
+Python, PySpark, Apache Spark, Pandas, Jupyter Notebook / Google Colab
 
 # Platform Accessibility
 
 This project is accessible and can be executed on:
 
-Jupyter Notebook
-Google Colab
-VS Code
-PyCharm
+Jupyter Notebook, Google Colab, VS Code, PyCharm
