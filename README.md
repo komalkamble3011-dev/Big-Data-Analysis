@@ -30,5 +30,7 @@ Python, PySpark, Apache Spark, Pandas, Jupyter Notebook / Google Colab
 # Platform Accessibility
 
 This project is accessible and can be executed on:
-
 Jupyter Notebook, Google Colab, VS Code, PyCharm
+
+<img width="1341" height="509" alt="image" src="https://github.com/user-attachments/assets/46d7de97-be75-444b-b119-d96cb7e30782" />
+
